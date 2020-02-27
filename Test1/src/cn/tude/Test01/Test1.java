@@ -4,9 +4,7 @@ public class Test1 {
 		System.out.println(1);
 		System.out.println(2);
 		//111
-		//2222
-		//22222222
-		//1111111
-		//111
+	    //22222222222222
+		//1111
 	}
 }
